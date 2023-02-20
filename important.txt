@@ -20,3 +20,7 @@
     git add . && git commit -m "Completed module"
     git push origin master
 
+10. Now we will have to implement module2, we can start with the following command to know what are missing
+    pytest -k module2
+
+11. gitignore important.txt file
